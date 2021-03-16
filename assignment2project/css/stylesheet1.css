@@ -1,0 +1,19 @@
+header,footer{
+  text-align:center;
+}
+
+h1,h2,h3{
+  color:LightSeaGreen;
+}
+
+a{
+  color:LightSeaGreen
+}
+
+img{
+  border: 2px solid LightSalmon
+}
+
+body{
+  font-family:Tahoma;
+}

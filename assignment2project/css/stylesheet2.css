@@ -1,0 +1,19 @@
+header,footer{
+  text-align:center;
+}
+
+h1,h2,h3{
+  color:orange;
+}
+
+a{
+  color:orange
+}
+
+img{
+  border: 2px solid green
+}
+
+body{
+  font-family:Serif;
+}
