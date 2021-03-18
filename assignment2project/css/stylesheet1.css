@@ -55,10 +55,13 @@ p{
     font-family:Tahoma;
 }
 
+h1{
+  font-family:Helvetica
+}
 h2{
   font-family:Tahoma;
 }
 
-li{
+h1,h2{
   color:green
 }
