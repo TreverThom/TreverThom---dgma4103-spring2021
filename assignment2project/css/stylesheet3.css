@@ -3,15 +3,15 @@ header,footer{
 }
 
 h1,h2,h3{
-  color:LightSeaGreen;
+  color:blue;
 }
 
 a{
-  color:LightSeaGreen
+  color:blue
 }
 
 img{
-  border: 2px solid LightSalmon
+  border: 2px solid LightSeaGreen
 }
 
 body{
